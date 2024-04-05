@@ -1,0 +1,11 @@
+Considere que cada 1 gramas de determinado alimento possui determinada quantidade de calorias. Considere que cada passo que voce da no dia gasta em média 0,04 a 0,05, junto a isso leve em consideração que sua taxa metabólica basal é de 1.800. Entao considere o tanto que voce consumiu deste alimento e calcule a quantidade de calorias consumidas no dia. Após isso calcule a quantidade de calorias gastas no dia, de acordo com o tanto que voce caminhou. então determine se voce teve um deficit calórico ou um superavt calórico
+
+
+requisitos:necessitará de certo número de variáveis para que seja possivel calcular a quantidade de calorias vezes a quantidade de ingerida em gramas do alimento, após isso sera necessario fazer 0,04 ou 0,05 vezes o tanto que a pessoa imagina ter andado no dia, após isso some com a taxa metabólica basal, com isso será possivel ver o tanto de calorias gastas junto ao tanto de calorias ingeridas , então será possivel verificar se fez um deficit calórico ou um superavit calórico no dia
+
+
+funcional:dados expecificos para conclusão do exercicio, calcular o que se pede, comparação dos dados calculados,
+
+
+não funcional: colocar o nome do alimento
+
