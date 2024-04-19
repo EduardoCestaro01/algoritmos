@@ -12,4 +12,9 @@ Como fazer o download:
 Acesse o site oficial do Python em https://www.python.org/.
 Após isso, na página inicial, localize a seção “Downloads” e clique nela.
 Então escolha o instalador apropriado para o seu sistema operacional.
-Clique no instalador para iniciar o download.            
+Clique no instalador para iniciar o download.
+
+Como fazer a instalação:
+Faça o download do instalador executável do Windows (32 ou 64 bits) e clique duas vezes nele para iniciar o assistente de instalação do python.
+Marque a opção "Add Python to PATH".
+Clique em "Install Now".            
