@@ -17,4 +17,7 @@ Clique no instalador para iniciar o download.
 Como fazer a instalação:
 Faça o download do instalador executável do Windows (32 ou 64 bits) e clique duas vezes nele para iniciar o assistente de instalação do python.
 Marque a opção "Add Python to PATH".
-Clique em "Install Now".            
+Clique em "Install Now".
+
+Como ativar o virtualenv
+Primeiro, certifique-se de ter o Virtualenv instalado em seu sistema. Caso não tenha, você pode instalá-lo usando o comando pip install virtualenv . Após a instalação, crie um novo diretório para o seu projeto e navegue até ele usando o terminal ou prompt de comando.            
