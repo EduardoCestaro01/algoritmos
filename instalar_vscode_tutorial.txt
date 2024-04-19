@@ -1,16 +1,5 @@
 Hoje irei ensinar a instalar e configurar o VS Code
 
-O que é:
-O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
-
-Como fazer o download:
-Para fazer o download, basta acessar o site oficial: https://code.visualstudio.com/ , escolher o sistema operacional e a versão do aplicativo.
-
-Como fazer a instalação:
-basta acessar o site oficial do Visual Studio Code e fazer o Download da sua última versão, clicando no botão "Download for Windows".
-Em seguida, execute o instalador baixado e siga as instruções na tela, não esqueça de marcar a opção "Add to Path" para adicionar o Visual Studio Code nas variáveis de ambiente.
-
-
 
 
 
