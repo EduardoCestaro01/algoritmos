@@ -1,5 +1,6 @@
 Iniciando tutorial de Python
 Hoje vou ensina-lo a fazer a instalação do programa Python na máquina virtual, junto a isso haverá uma explicação sobre oque é Python.
+<<<<<<< HEAD
 
 O que é Python
 Python é uma das principais e mais populares linguagens de programação em todo o mundo. É considerada de alto nível, pois está mais próxima à linguagem humana do que a de uma máquina. 
@@ -7,3 +8,6 @@ Python é uma das principais e mais populares linguagens de programação em tod
 Exatamente por isso, ganhou popularidade entre os profissionais da área por ter uma sintaxe considerada relativamente simples, principalmente quando comparada às demais. 
 
 Essa é a principal maneira de definir o que é Python.              
+=======
+                
+>>>>>>> e7c53a629af0734a7e666b16ae5b80975be3f5c2
