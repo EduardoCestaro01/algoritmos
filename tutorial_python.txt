@@ -6,4 +6,4 @@ Python é uma das principais e mais populares linguagens de programação em tod
 
 Exatamente por isso, ganhou popularidade entre os profissionais da área por ter uma sintaxe considerada relativamente simples, principalmente quando comparada às demais. 
 
-Essa é a principal maneira de definir o que é Python.                    
+Essa é a principal maneira de definir o que é Python.              
