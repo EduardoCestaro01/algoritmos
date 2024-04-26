@@ -1,1 +1,1 @@
-A pasta algoritmos contem todos os meus projetos que realizei no portugol e estão organizadas de acordo com seus niveis de dificuldade
+A pasta algoritmos contem todos os meus projetos que realizei no portugol e estão organizadas de acordo com seus niveis de dificuldade.
