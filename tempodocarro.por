@@ -7,7 +7,7 @@ programa {
     leia(distancia)
     tempo = distancia / velocidade
     
-    escreva ("O tempo necessario é de :" , tempo , "horas")
+    escreva ("O tempo necessario Ã© de :" , tempo , "horas")
     
   }
 }
