@@ -1,0 +1,28 @@
+Adicionar um repositório remoto
+Para adicionar um novo controle remoto, use o comando git remote add no terminal, no diretório em que o repositório está armazenado.
+
+O comando git remote add usa dois argumentos:
+
+Um nome de repositório remoto, por exemplo, origin
+Uma URL remota, por exemplo, https://github.com/OWNER/REPOSITORY.git
+Por exemplo:
+
+$ git remote add origin https://github.com/OWNER/REPOSITORY.git
+# Set a new remote
+
+$ git remote -v
+# Verify new remote
+> origin  https://github.com/OWNER/REPOSITORY.git (fetch)
+> origin  https://github.com/OWNER/REPOSITORY.git (push)
+Para obter mais informações sobre a URL que deve ser usada, confira "Sobre repositórios remote".
+
+Solução de problemas: A origem remota já existe
+Esse erro significa que você tentou adicionar um remoto com um nome que já existe no repositório local.
+
+$ git remote add origin https://github.com/octocat/Spoon-Knife.git
+> fatal: remote origin already exists.
+Para corrigir isso, você pode:
+
+Usar um nome diferente para o novo remoto
+Renomeie o repositório remoto existente antes de adicionar o novo repositório remoto. Para obter mais informações, confira "Renomear um repositório remoto" abaixo.
+Exclua o repositório remoto existente antes de adicionar o novo repositório remoto. Para obter mais informações, confira "Remover um repositório remoto" abaixo.
